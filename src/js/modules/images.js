@@ -8,7 +8,6 @@ const images = () => {
 
     imgPopup.style.justifyContent = 'center';
     imgPopup.style.alignItems = 'center';
-    imgPopup.style.overflow = 'hidden';
     imgPopup.style.display = 'none';
 
     imgPopup.appendChild(bigImage);
